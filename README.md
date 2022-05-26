@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Dâmares 😆
 
-Desenvolvedora Full-stack Júnior
+Desenvolvedora Web Full-stack Júnior
 
 - 🥰 Apaixonada por programação desde que iniciei os estudos em outubro de 2020 
 - 🤓 Aluna na formação Certified Tech Developer na Digital House
@@ -26,7 +26,6 @@ Desenvolvedora Full-stack Júnior
   <img align="center" alt="damares-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="damares-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />    
   <img align="center" alt="damares-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="damares-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
   
 ##
