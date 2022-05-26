@@ -3,7 +3,9 @@
 Desenvolvedora Full-stack Júnior
 
 - 🥰 Apaixonada por programação desde que iniciei os estudos em outubro de 2020 
-- 🤓 Atualmente sou aluna na formação Certified Tech Developer na Digital House
+- 🤓 Aluna na formação Certified Tech Developer na Digital House
+- 👩‍🎓 Aluna na formação Web Full-stack na Let's Code
+- 👩‍💻 Treinee Web Full-stack
 
 
 ##
@@ -22,6 +24,7 @@ Desenvolvedora Full-stack Júnior
   <img align="center" alt="damares-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="damares-sass" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="damares-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="damares-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />    
   <img align="center" alt="damares-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="damares-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
