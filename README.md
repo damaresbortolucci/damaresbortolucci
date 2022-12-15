@@ -5,7 +5,6 @@ Desenvolvedora Web Full-stack Júnior
 - 🥰 Apaixonada por programação desde que iniciei os estudos em outubro de 2020 
 - 🤓 Aluna na formação Certified Tech Developer na Digital House
 - 👩‍🎓 Aluna na formação Web Full-stack na Let's Code
-- 👩‍💻 Treinee Web Full-stack
 
 
 ##
